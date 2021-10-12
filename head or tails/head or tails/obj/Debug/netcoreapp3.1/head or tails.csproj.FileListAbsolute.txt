@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\bin\Debug\netcoreapp3.1\head or tails.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\bin\Debug\netcoreapp3.1\head or tails.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\bin\Debug\netcoreapp3.1\head or tails.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\bin\Debug\netcoreapp3.1\head or tails.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\bin\Debug\netcoreapp3.1\head or tails.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\bin\Debug\netcoreapp3.1\head or tails.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\obj\Debug\netcoreapp3.1\head or tails.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\obj\Debug\netcoreapp3.1\head or tails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\obj\Debug\netcoreapp3.1\head or tails.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\obj\Debug\netcoreapp3.1\head or tails.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\obj\Debug\netcoreapp3.1\head or tails.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\obj\Debug\netcoreapp3.1\head or tails.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\obj\Debug\netcoreapp3.1\head or tails.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\head or tails\head or tails\obj\Debug\netcoreapp3.1\head or tails.genruntimeconfig.cache

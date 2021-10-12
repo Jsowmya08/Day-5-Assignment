@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\bin\Debug\netcoreapp3.1\Quotient and Remainder.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\bin\Debug\netcoreapp3.1\Quotient and Remainder.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\bin\Debug\netcoreapp3.1\Quotient and Remainder.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\bin\Debug\netcoreapp3.1\Quotient and Remainder.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\bin\Debug\netcoreapp3.1\Quotient and Remainder.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\bin\Debug\netcoreapp3.1\Quotient and Remainder.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Quotient and Remainder\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.genruntimeconfig.cache

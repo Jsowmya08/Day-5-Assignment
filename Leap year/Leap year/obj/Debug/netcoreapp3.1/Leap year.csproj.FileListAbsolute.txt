@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\bin\Debug\netcoreapp3.1\Leap year.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\bin\Debug\netcoreapp3.1\Leap year.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\bin\Debug\netcoreapp3.1\Leap year.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\bin\Debug\netcoreapp3.1\Leap year.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\bin\Debug\netcoreapp3.1\Leap year.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\bin\Debug\netcoreapp3.1\Leap year.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\obj\Debug\netcoreapp3.1\Leap year.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\obj\Debug\netcoreapp3.1\Leap year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\obj\Debug\netcoreapp3.1\Leap year.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\obj\Debug\netcoreapp3.1\Leap year.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\obj\Debug\netcoreapp3.1\Leap year.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\obj\Debug\netcoreapp3.1\Leap year.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\obj\Debug\netcoreapp3.1\Leap year.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Leap year\Leap year\obj\Debug\netcoreapp3.1\Leap year.genruntimeconfig.cache

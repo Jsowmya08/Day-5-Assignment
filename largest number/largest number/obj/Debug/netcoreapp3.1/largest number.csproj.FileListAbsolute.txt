@@ -1,0 +1,13 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\bin\Debug\netcoreapp3.1\largest number.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\bin\Debug\netcoreapp3.1\largest number.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\bin\Debug\netcoreapp3.1\largest number.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\bin\Debug\netcoreapp3.1\largest number.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\bin\Debug\netcoreapp3.1\largest number.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\bin\Debug\netcoreapp3.1\largest number.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\obj\Debug\netcoreapp3.1\largest number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\obj\Debug\netcoreapp3.1\largest number.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\obj\Debug\netcoreapp3.1\largest number.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\obj\Debug\netcoreapp3.1\largest number.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\obj\Debug\netcoreapp3.1\largest number.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\obj\Debug\netcoreapp3.1\largest number.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\largest number\largest number\obj\Debug\netcoreapp3.1\largest number.genruntimeconfig.cache

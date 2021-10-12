@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\bin\Debug\netcoreapp3.1\vowel or consonant.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\bin\Debug\netcoreapp3.1\vowel or consonant.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\bin\Debug\netcoreapp3.1\vowel or consonant.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\bin\Debug\netcoreapp3.1\vowel or consonant.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\bin\Debug\netcoreapp3.1\vowel or consonant.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\bin\Debug\netcoreapp3.1\vowel or consonant.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\obj\Debug\netcoreapp3.1\vowel or consonant.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\obj\Debug\netcoreapp3.1\vowel or consonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\obj\Debug\netcoreapp3.1\vowel or consonant.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\obj\Debug\netcoreapp3.1\vowel or consonant.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\obj\Debug\netcoreapp3.1\vowel or consonant.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\obj\Debug\netcoreapp3.1\vowel or consonant.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\obj\Debug\netcoreapp3.1\vowel or consonant.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\vowel or consonant\vowel or consonant\obj\Debug\netcoreapp3.1\vowel or consonant.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\bin\Debug\netcoreapp3.1\flip coin (c).exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\bin\Debug\netcoreapp3.1\flip coin (c).deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\bin\Debug\netcoreapp3.1\flip coin (c).runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\bin\Debug\netcoreapp3.1\flip coin (c).runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\bin\Debug\netcoreapp3.1\flip coin (c).dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\bin\Debug\netcoreapp3.1\flip coin (c).pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\obj\Debug\netcoreapp3.1\flip coin (c).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\obj\Debug\netcoreapp3.1\flip coin (c).AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\obj\Debug\netcoreapp3.1\flip coin (c).AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\obj\Debug\netcoreapp3.1\flip coin (c).csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\obj\Debug\netcoreapp3.1\flip coin (c).dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\obj\Debug\netcoreapp3.1\flip coin (c).pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\obj\Debug\netcoreapp3.1\flip coin (c).genruntimeconfig.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\flip coin (c)\flip coin (c)\obj\Debug\netcoreapp3.1\flip coin (c).csproj.AssemblyReference.cache

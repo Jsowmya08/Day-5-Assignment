@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\bin\Debug\netcoreapp3.1\Swaping of two numbers.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\bin\Debug\netcoreapp3.1\Swaping of two numbers.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\bin\Debug\netcoreapp3.1\Swaping of two numbers.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\bin\Debug\netcoreapp3.1\Swaping of two numbers.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\bin\Debug\netcoreapp3.1\Swaping of two numbers.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\bin\Debug\netcoreapp3.1\Swaping of two numbers.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\obj\Debug\netcoreapp3.1\Swaping of two numbers.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\obj\Debug\netcoreapp3.1\Swaping of two numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\obj\Debug\netcoreapp3.1\Swaping of two numbers.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\obj\Debug\netcoreapp3.1\Swaping of two numbers.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\obj\Debug\netcoreapp3.1\Swaping of two numbers.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\obj\Debug\netcoreapp3.1\Swaping of two numbers.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\obj\Debug\netcoreapp3.1\Swaping of two numbers.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 5\Swaping of two numbers\Swaping of two numbers\obj\Debug\netcoreapp3.1\Swaping of two numbers.genruntimeconfig.cache
